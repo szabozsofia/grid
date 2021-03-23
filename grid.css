@@ -1,8 +1,8 @@
 .container {
   /* Write your code here.*/
-  display: grid;
-  grid-template-columns: 1fr 2fr 3fr;
-  grid-template-rows: 100px 50px;
+  display: grid; /* Grid bekapcsolása */
+  grid-template-columns: 1fr 2fr 3fr; /* Oszlopoklétrehozása */
+  grid-template-rows: 100px 50px; /* Sorok létrehozása */
   grid-template-columns: 200px 200px 200px;
   grid-template-rows: 50px 50px 50px;
   grid-gap: 10px;
